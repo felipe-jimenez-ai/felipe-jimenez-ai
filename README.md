@@ -23,6 +23,11 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
   - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/4202993c624e456da2753121fa427873)
   - [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/7f81102538da4778a83c5d0041096bc5)
   - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/50307d7020a64596b87e1d15317dab63)
+- **Achievements**
+  - Honor Roll, National University of Colombia (01/2019 - 06/2020): 2nd & 3rd highest GPA among 928+ engineering students. 
+  - Double 2nd Place in Competitive Programming Marathon, Distrital University (07/2017 and 12/2017): Competed with 30+ teams. 
+  - 1st Best CEO and 2nd Best Project among 40+ projects, UNAL and INNpulsa: Led a project on electric vehicle charging. 
+  - Top 1% Admission Exam, UNAL: Ranked 341st out of 44,188 applicants, and 14th out of 97 admitted to Computer Science & Eng. 
 
 ## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
 
