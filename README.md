@@ -10,9 +10,9 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 
 ## 🏆 Recent achievements & Certificates
 
-- [Skills & Certificates](https://www.credly.com/users/felipe-jimenez-ai/skills)
+- [Skill Evidence - IBM](https://www.credly.com/users/felipe-jimenez-ai/skills)
 - [Amazon Bedrock Generative AI Microbootcamp Certificate - CloudCamp](https://verify.cloudcamp.la/certificate/1trxpmawplvrssm4gl4j9/)
-- [Amazon Bedrock Generative AI Microbootcamp Certificate - CloudCamp](https://verify.cloudcamp.la/certificate/1trxpmawplvrssm4gl4j9/)
+- [Linux Commands & Shell Scripting Essentials V2 - IBM](https://www.credly.com/badges/37813b97-1019-4a99-a82c-a28e0b046e0a)
 
 ## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
 
