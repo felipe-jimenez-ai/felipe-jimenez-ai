@@ -11,7 +11,7 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 ## 🏆 Recent achievements & Certificates
 
 - [Skill Evidence - IBM](https://www.credly.com/users/felipe-jimenez-ai/skills)
-- [Scrum Master - Scrum Network](https://app.kajabi.com/certificates/fa2e83f8)
+- [Scrum Master Certificate - Scrum Network](https://app.kajabi.com/certificates/fa2e83f8)
 - **Cloud**
   - [Amazon Bedrock Generative AI Microbootcamp Certificate - CloudCamp](https://verify.cloudcamp.la/certificate/1trxpmawplvrssm4gl4j9/)
 - **Back-End Development Professional Certificate - IBM**
@@ -19,7 +19,7 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
   - [Git and GitHub Essentials - IBM](https://www.credly.com/badges/8a0f8dc3-13a0-4142-a2ad-ec939e01c936)
   - [Software Engineering Essentials - IBM](https://www.credly.com/badges/8a0f8dc3-13a0-4142-a2ad-ec939e01c936)
 - [MATLAB - MathWorks](https://matlabacademy.mathworks.com/progress/report.pdf?course=gettingstarted&release=R2020b&language=en&)
-- **Data Specialization - IBM**
+- **Data Specialization**
   - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/4202993c624e456da2753121fa427873)
   - [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/7f81102538da4778a83c5d0041096bc5)
   - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/50307d7020a64596b87e1d15317dab63)
