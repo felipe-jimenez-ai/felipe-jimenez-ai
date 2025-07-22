@@ -27,3 +27,9 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 ## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipe-jimenez-ai)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/felipe-jimenez-ai/aztech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=aztech&show_icons=true&line_height=27" alt="aztech" />
+</a>
