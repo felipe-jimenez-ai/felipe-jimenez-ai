@@ -1,9 +1,9 @@
 ## Hello world, I'm Felipe 👋
 
 - 💼 [Portfolio](https://aztechnologies.web.app/)
-- Computer Scientist & Engineer at [National University of Colombia](https://unal.edu.co/)
+- Computer Scientist & Engineer.
 - Back-end developer in Python.
-- Aspiring Data & AI/ML Engineer
+- Aspiring Data & AI/ML Engineer.
 - Cloud platforms: AWS.
 
 Proficient in Python, C++, and MATLAB. I also have experience working with ML/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, and Pandas. 
