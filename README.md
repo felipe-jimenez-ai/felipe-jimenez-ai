@@ -1,4 +1,6 @@
-## Hello world, I'm Felipe 👋
+# Hello World, I'm Felipe 👋
+
+## Hello World, I'm Felipe 👋
 
 - 💼 [Portfolio](https://aztechnologies.web.app/)
 - Computer Scientist & Engineer.
@@ -8,7 +10,7 @@
 
 Proficient in Python, C++, and MATLAB. I also have experience working with ML/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, and Pandas. 
 
-## 🏆 Recent achievements & Certificates
+## 🏆 Recent Achievements & Certificates
 
 - [Skill Evidence - IBM](https://www.credly.com/users/felipe-jimenez-ai/skills)
 - [Scrum Master Certificate - Scrum Network](https://app.kajabi.com/certificates/fa2e83f8)
@@ -34,7 +36,7 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&show_icons=true&line_height=27" alt="credit-card-fraud-detection" />
 </a>
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://aztechnologies.web.app/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/felipe-jimenez-ai/)
