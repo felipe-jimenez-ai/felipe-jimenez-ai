@@ -33,3 +33,8 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 <a href="https://github.com/felipe-jimenez-ai/aztech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=aztech&show_icons=true&line_height=27" alt="aztech" />
 </a>
+
+## 📫 Connect with me
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://aztechnologies.web.app/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/felipe-jimenez-ai/)
