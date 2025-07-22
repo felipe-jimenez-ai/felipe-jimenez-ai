@@ -30,6 +30,10 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/felipe-jimenez-ai/mentoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&show_icons=true&line_height=27" alt="mentoria" />
+</a>
+
 <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&show_icons=true&line_height=27" alt="credit-card-fraud-detection" />
 </a>
