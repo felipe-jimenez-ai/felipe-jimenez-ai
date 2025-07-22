@@ -1,5 +1,3 @@
-# Hello World, I'm Felipe 👋
-
 ## Hello World, I'm Felipe 👋
 
 - 💼 [Portfolio](https://aztechnologies.web.app/)
