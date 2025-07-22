@@ -1,7 +1,7 @@
 ## Hello World, I'm Felipe 👋
 
 - 💼 [Portfolio](https://aztechnologies.web.app/)
-- Computer Scientist & Engineer - [National University of Colombia](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
+- [Computer Scientist & Engineer - National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
 - Back-end developer in Python.
 - Cloud platforms: AWS.
 - Aspiring Data & AI/ML Engineer.
