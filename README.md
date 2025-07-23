@@ -63,61 +63,119 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 
 ---
 
-## Hello World, I'm Felipe 👋
 
-I am a **Backend & Cloud Engineer** with a strong foundation in Python and AWS, and a deep passion for building the infrastructure that powers data-intensive applications. My background as a Computer Scientist from a top LATAM university, combined with 5 years of experience as a financial trader, gives me a unique perspective on solving complex problems where performance, data, and risk management are critical.
 
-I am currently seeking a role where I can apply my backend development skills while growing into a specialist in **Data Engineering and AI/ML**.
 
-- 💼 **Portfolio:** [aztechnologies.web.app](https://aztechnologies.web.app/)
-- 🎓 **Education:** Computer Science & Engineering (GPA: 4.6/5.0) - [Universidad Nacional de Colombia (Top 10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia)
-- 🔗 **LinkedIn:** [linkedin.com/in/felipe-jimenez-ai](https://www.linkedin.com/in/felipe-jimenez-ai/)
 
----
 
-### Core Competencies & Technologies
 
-**Backend Development:**
-- **Languages:** Python (Proficient), C++
-- **Frameworks:** Flask, Django, REST APIs
-- **Databases:** SQL (PostgreSQL, MySQL), NoSQL concepts
+# Hello, I'm Felipe 👋
 
-**Cloud & DevOps:**
-- **Platform:** AWS (Certified Cloud Practitioner)
-- **Tools:** Docker, Git, GitHub Actions (CI/CD basics)
+I am a **Backend & Cloud Engineer** with a strong foundation in Python and AWS, passionate about building the robust infrastructure that powers data-intensive applications. 
 
-**Data Science & ML (Experience):**
-- **Libraries:** TensorFlow, PyTorch, Scikit-Learn, NumPy, Pandas
-- **Languages:** MATLAB
+My background as a Computer Scientist from a top LATAM university, combined with 5 years of experience as a financial trader, gives me a unique perspective on solving complex problems where performance, data, and risk management are critical. I am currently seeking a role where I can apply my backend skills while growing into a specialist in **Data Engineering and AI/ML**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-jimenez-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aztechnologies.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:anjimenezp@unal.edu.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### Pinned Projects: The Most Important Section
+### ⚙️ Core Competencies & Technologies
 
-Your profile is great, but your pinned projects need to tell a clearer story about your current skills.
-
-**The Problem:** Your current pinned projects ("mentoria" and "credit-card-fraud-detection") are good, but they look like typical data science/ML projects. This can confuse recruiters looking for a **Backend Engineer**. They might think, "Is this person a data scientist who wants to do backend, or a backend engineer?"
-
-**The Optimization Strategy:**
-
-Your pinned projects MUST reflect the job you want **NOW (Backend/Cloud Engineer)**, while hinting at your future goals (AI/Data).
-
-**Action Plan for Your Projects:**
-
-1.  **Pin Your Best Backend Project First:** You need a project that screams "I can build and deploy a backend service." This should be your **Capstone Backend & Cloud Project** from your optimized learning path.
-    *   **Description is Key:** The README for this project must be perfect. It should explain the architecture, the API endpoints, how to run it locally with Docker, and include a link to the live, deployed version on AWS.
-2.  **Frame Your AI/Data Projects with a Backend Focus:**
-    *   Go back to your `credit-card-fraud-detection` project. Can you wrap it in a **Flask API**? Can you create a Docker container for it? Can you deploy that API on AWS Lambda or EC2?
-    *   If you do this, you transform it from a "data science script" into a "production-ready ML service." Now, it's a perfect project for a Backend Engineer with AI interests.
-3.  **Third Pinned Project (Optional but Recommended):** A project demonstrating your cloud skills. For example, a repository with IaC (Infrastructure as Code) scripts (like Terraform or AWS CDK) that define a specific cloud architecture.
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+        <br/><strong>Backend Development</strong>
+      </div>
+      <ul>
+        <li>Python</li>
+        <li>Flask / Django</li>
+        <li>REST APIs</li>
+        <li>SQL (PostgreSQL)</li>
+        <li>C/C++</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+        <br/><strong>Cloud & DevOps</strong>
+      </div>
+      <ul>
+        <li>AWS (EC2, S3, RDS)</li>
+        <li>Docker</li>
+        <li>Git / GitHub</li>
+        <li>CI/CD Principles</li>
+        <li>Linux / Shell Scripting</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
+        <br/><strong>AI, ML & Data</strong>
+      </div>
+      <ul>
+        <li>PyTorch / TensorFlow</li>
+        <li>Scikit-Learn</li>
+        <li>Pandas / NumPy</li>
+        <li>Generative AI (LLMs)</li>
+        <li>MATLAB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Final Polish on Other Sections
+### 🚀 What I'm Focused On
 
-*   **"My Journey" section:** This is good, but it can be more concise. Your new intro already covers most of it. You can keep the "Interests" part as it adds personality.
-*   **"Achievements & Certificates" section:** This is excellent. Maybe just group the "Data Specialization" certificates under a single "Data & AI" heading for brevity. Make the IBM Backend certificate the most prominent one.
+My goal is to build scalable, data-driven systems. My current learning path is deepening my expertise in:
 
-**In summary:**
+-   **Cloud Architecture:** Designing resilient and cost-efficient systems on AWS.
+-   **Data Engineering:** Building and optimizing data pipelines (ETL/ELT) with tools like Spark and Airflow.
+-   **MLOps:** Automating the lifecycle of machine learning models to deliver reliable AI in production.
 
-Your profile is strong, but to be **instantly hirable** for a backend role, you need to align your "shop window"—your pinned projects—with that specific job title. Transform your existing projects to showcase your backend and deployment skills, and your profile will be unstoppable.
+---
+
+### 🗂️ Pinned Projects
+
+*(This is the most important section. Aim to have your projects look like this.)*
+
+<p align="center">
+  <a href="[LINK TO YOUR BACKEND PROJECT REPO]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=[YOUR_USERNAME]&repo=[YOUR_BACKEND_PROJECT_REPO]&theme=tokyonight&show_icons=true" alt="Backend Project" />
+  </a>
+  <a href="[LINK TO YOUR ML API PROJECT REPO]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=[YOUR_USERNAME]&repo=[YOUR_ML_API_PROJECT_REPO]&theme=tokyonight&show_icons=true" alt="ML API Project" />
+  </a>
+  <a href="[LINK TO YOUR DATA PIPELINE PROJECT REPO]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=[YOUR_USERNAME]&repo=[YOUR_DATA_PIPELINE_PROJECT_REPO]&theme=tokyonight&show_icons=true" alt="Data Pipeline Project" />
+  </a>
+</p>
+
+**Recommended Project Examples to Build & Pin:**
+
+1.  **Backend - [E-commerce API]**: A fully containerized RESTful API for an e-commerce platform built with Python, Flask/Django, and PostgreSQL. Deployed on AWS using Docker and CI/CD pipelines.
+2.  **ML/API - [Fraud Detection Service]**: A machine learning model (trained on transaction data) wrapped in a high-performance API. The service takes transaction details and returns a real-time fraud probability score.
+3.  **Data - [Real-Time Stock Data Pipeline]**: An end-to-end data pipeline that ingests real-time stock market data via an API, processes it using Spark, and stores it in a data lake on AWS S3 for analysis.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-jimenez-ai&show_icons=true&theme=tokyonight&count_private=true" alt="felipe-jimenez-ai's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipe-jimenez-ai&theme=tokyonight" alt="Trophy" />
+</p>
+
+---
