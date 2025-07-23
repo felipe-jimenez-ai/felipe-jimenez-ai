@@ -6,7 +6,7 @@
 - Cloud platforms: AWS.
 - Aspiring Data & AI/ML Engineer.
 
-Proficient in Python, C++, and MATLAB. I also have experience working with ML/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, and Pandas. 
+Proficient in Python, C++, and MATLAB. I also have experience working with ML/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, NumPy, and Pandas. 
 
 ## My Journey 🚀
 
@@ -17,6 +17,7 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
   - Applying technology to financial markets — backed by 5 years of experience as a financial trader.
   - Exploring the applications of Machine Learning and Deep Learning.
   - Entrepreneurship and building impactful tech solutions.
+  - A deep fascination with space exploration 🚀🌌
 
 ## 🏆 Recent Achievements & Certificates
 
