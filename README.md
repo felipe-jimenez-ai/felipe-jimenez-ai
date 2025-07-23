@@ -11,8 +11,10 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 ## My Journey 🚀
 
 - 🌉 I'm currently specializing in:
+  - AI Software Development.
   - Cloud infrastructure (AWS, Docker, Kubernetes, CI/CD).
-  - Data, Artificial Intelligence, and Machine Learning.
+  - Data Engineering.
+  - Artificial Intelligence (Machine Learning, Deep Learning, MLOps).
 - 🔭 My interests include:
   - Applying technology to financial markets — backed by 5 years of experience as a financial trader.
   - Exploring the applications of Machine Learning and Deep Learning.
