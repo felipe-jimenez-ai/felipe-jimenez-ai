@@ -8,6 +8,16 @@
 
 Proficient in Python, C++, and MATLAB. I also have experience working with ML/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, and Pandas. 
 
+## My Journey 🚀
+
+- 🌉 I'm currently specializing in:
+  - Cloud infrastructure (AWS, Docker, Kubernetes, CI/CD).
+  - Data, Artificial Intelligence, and Machine Learning.
+- 🔭 My interests include:
+  - Applying technology to financial markets — backed by 5 years of experience as a financial trader.
+  - Exploring the applications of Machine Learning and Deep Learning.
+  - Entrepreneurship and building impactful tech solutions.
+
 ## 🏆 Recent Achievements & Certificates
 
 - [Skill Evidence - IBM](https://www.credly.com/users/felipe-jimenez-ai/skills)
@@ -16,7 +26,7 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
   - [Linux Commands & Shell Scripting Essentials V2 - IBM](https://www.credly.com/badges/37813b97-1019-4a99-a82c-a28e0b046e0a)
   - [Git and GitHub Essentials - IBM](https://www.credly.com/badges/8a0f8dc3-13a0-4142-a2ad-ec939e01c936)
   - [Software Engineering Essentials - IBM](https://www.credly.com/badges/8a0f8dc3-13a0-4142-a2ad-ec939e01c936)
-- **Cloud + AI**
+- **AI & Cloud**
   - [Amazon Bedrock Generative AI Microbootcamp Certificate - CloudCamp](https://verify.cloudcamp.la/certificate/1trxpmawplvrssm4gl4j9/)
 - **Data Specialization**
   - [MATLAB - MathWorks](https://matlabacademy.mathworks.com/progress/report.pdf?course=gettingstarted&release=R2020b&language=en&)
