@@ -71,9 +71,15 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 
 # Hello, I'm Felipe 👋
 
-I am a **Backend & Cloud Engineer** with a strong foundation in Python and AWS, passionate about building the robust infrastructure that powers data-intensive applications. 
+I am a **Backend & Cloud Engineer** with a strong foundation in Python and AWS, passionate about building the robust infrastructure that powers AI data-intensive applications. 
 
-My background as a Computer Scientist from a top LATAM university, combined with 5 years of experience as a financial trader, gives me a unique perspective on solving complex problems where performance, data, and risk management are critical. I am currently seeking a role where I can apply my backend skills while growing into a specialist in **Data Engineering and AI/ML**.
+- **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) - [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
+- 🧠 1 year of experience in AI & Data roles, including:
+  - AI Software Engineering: NLP, Generative AI, API integration
+  - Data Engineering: ETL/ELT pipelines, data cleaning, database design & development
+  - Data Analytics: Business insights, cost analysis, client behavior
+- 📈 5 years as a Financial Trader, bringing a sharp understanding of performance, data, and risk management in real-time environments.
+- 🔍 Currently seeking backend roles with a strong path toward Data Engineering & AI/ML Engineering.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-jimenez-ai/" target="_blank">
@@ -81,9 +87,6 @@ My background as a Computer Scientist from a top LATAM university, combined with
   </a>
   <a href="https://aztechnologies.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:anjimenezp@unal.edu.co">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
