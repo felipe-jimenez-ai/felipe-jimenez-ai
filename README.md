@@ -60,3 +60,64 @@ Proficient in Python, C++, and MATLAB. I also have experience working with ML/Da
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://aztechnologies.web.app/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/felipe-jimenez-ai/)
+
+---
+
+## Hello World, I'm Felipe 👋
+
+I am a **Backend & Cloud Engineer** with a strong foundation in Python and AWS, and a deep passion for building the infrastructure that powers data-intensive applications. My background as a Computer Scientist from a top LATAM university, combined with 5 years of experience as a financial trader, gives me a unique perspective on solving complex problems where performance, data, and risk management are critical.
+
+I am currently seeking a role where I can apply my backend development skills while growing into a specialist in **Data Engineering and AI/ML**.
+
+- 💼 **Portfolio:** [aztechnologies.web.app](https://aztechnologies.web.app/)
+- 🎓 **Education:** Computer Science & Engineering (GPA: 4.6/5.0) - [Universidad Nacional de Colombia (Top 10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia)
+- 🔗 **LinkedIn:** [linkedin.com/in/felipe-jimenez-ai](https://www.linkedin.com/in/felipe-jimenez-ai/)
+
+---
+
+### Core Competencies & Technologies
+
+**Backend Development:**
+- **Languages:** Python (Proficient), C++
+- **Frameworks:** Flask, Django, REST APIs
+- **Databases:** SQL (PostgreSQL, MySQL), NoSQL concepts
+
+**Cloud & DevOps:**
+- **Platform:** AWS (Certified Cloud Practitioner)
+- **Tools:** Docker, Git, GitHub Actions (CI/CD basics)
+
+**Data Science & ML (Experience):**
+- **Libraries:** TensorFlow, PyTorch, Scikit-Learn, NumPy, Pandas
+- **Languages:** MATLAB
+
+---
+
+### Pinned Projects: The Most Important Section
+
+Your profile is great, but your pinned projects need to tell a clearer story about your current skills.
+
+**The Problem:** Your current pinned projects ("mentoria" and "credit-card-fraud-detection") are good, but they look like typical data science/ML projects. This can confuse recruiters looking for a **Backend Engineer**. They might think, "Is this person a data scientist who wants to do backend, or a backend engineer?"
+
+**The Optimization Strategy:**
+
+Your pinned projects MUST reflect the job you want **NOW (Backend/Cloud Engineer)**, while hinting at your future goals (AI/Data).
+
+**Action Plan for Your Projects:**
+
+1.  **Pin Your Best Backend Project First:** You need a project that screams "I can build and deploy a backend service." This should be your **Capstone Backend & Cloud Project** from your optimized learning path.
+    *   **Description is Key:** The README for this project must be perfect. It should explain the architecture, the API endpoints, how to run it locally with Docker, and include a link to the live, deployed version on AWS.
+2.  **Frame Your AI/Data Projects with a Backend Focus:**
+    *   Go back to your `credit-card-fraud-detection` project. Can you wrap it in a **Flask API**? Can you create a Docker container for it? Can you deploy that API on AWS Lambda or EC2?
+    *   If you do this, you transform it from a "data science script" into a "production-ready ML service." Now, it's a perfect project for a Backend Engineer with AI interests.
+3.  **Third Pinned Project (Optional but Recommended):** A project demonstrating your cloud skills. For example, a repository with IaC (Infrastructure as Code) scripts (like Terraform or AWS CDK) that define a specific cloud architecture.
+
+---
+
+### Final Polish on Other Sections
+
+*   **"My Journey" section:** This is good, but it can be more concise. Your new intro already covers most of it. You can keep the "Interests" part as it adds personality.
+*   **"Achievements & Certificates" section:** This is excellent. Maybe just group the "Data Specialization" certificates under a single "Data & AI" heading for brevity. Make the IBM Backend certificate the most prominent one.
+
+**In summary:**
+
+Your profile is strong, but to be **instantly hirable** for a backend role, you need to align your "shop window"—your pinned projects—with that specific job title. Transform your existing projects to showcase your backend and deployment skills, and your profile will be unstoppable.
