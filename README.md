@@ -69,7 +69,7 @@
 
 ### 🚀 What I'm Focused On
 
-My goal is to build scalable, data-driven systems. My current learning path is deepening my expertise in:
+My goal is to build scalable, data-driven, AI systems. My current learning path is deepening my expertise in:
 
 -   **Cloud Architecture:** Designing resilient and cost-efficient systems on AWS.
 -   **Data Engineering:** Building and optimizing data pipelines (ETL/ELT) with tools like Spark and Airflow.
