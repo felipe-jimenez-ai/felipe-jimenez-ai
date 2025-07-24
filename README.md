@@ -81,10 +81,10 @@ My goal is to build scalable, data-driven, AI systems. My current learning path 
 
 <p align="center">
   <a href="https://github.com/felipe-jimenez-ai/mentoria">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=tokyonight&show_icons=true" alt="Backend Project" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=shadow_green&show_icons=true" alt="Backend Project" />
   </a>
   <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=tokyonight&show_icons=true" alt="ML API Project" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=shadow_green&show_icons=true" alt="ML API Project" />
   </a>
 </p>
 
@@ -93,8 +93,8 @@ My goal is to build scalable, data-driven, AI systems. My current learning path 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-jimenez-ai&show_icons=true&theme=tokyonight&count_private=true" alt="felipe-jimenez-ai's GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-jimenez-ai&theme=tokyonight" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-jimenez-ai&show_icons=true&theme=shadow_green&count_private=true" alt="felipe-jimenez-ai's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipe-jimenez-ai&theme=shadow_green" alt="Trophy" />
 </p>
 
 ---
