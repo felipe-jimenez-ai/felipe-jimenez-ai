@@ -20,7 +20,7 @@
 
 ---
 
-### 🗂️ Pinned Projects
+## 🗂️ Pinned Projects
 
 <p align="center">
   <a href="https://github.com/felipe-jimenez-ai/mentoria">
@@ -33,7 +33,7 @@
 
 ---
 
-### ⚙️ Core Competencies & Technologies
+## ⚙️ Core Competencies & Technologies
 
 <table align="center">
   <tr>
