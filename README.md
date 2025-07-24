@@ -2,11 +2,11 @@
 
 - **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) - [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
 - 🧠 1 year of experience in AI & Data roles, including:
-  - AI Software Engineer: NLP, Generative AI, API integration
-  - Data Engineer: ETL/ELT pipelines, data cleaning, data modeling, database design & development
-  - Data Analyst: Business insights, cost analysis, client behavior
+  - **AI Software Engineer:** NLP, Generative AI, API integration
+  - **Data Engineer:** ETL/ELT pipelines, data cleaning, data modeling, database design & development
+  - **Data Analyst:** Business insights, cost analysis, client behavior
 - 📈 5 years as a Financial Trader, bringing a sharp understanding of performance, data, and risk management in real-time environments.
-- 🔍 Currently seeking backend roles with a strong path toward Data Engineering & AI/ML Engineering.
+> 🔍 Currently seeking backend roles with a strong path toward Data Engineering & AI/ML Engineering.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-jimenez-ai/" target="_blank">
