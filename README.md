@@ -1,15 +1,5 @@
 # Hello, I'm Felipe 👋
 
-- **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) - [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
-- 🧠 1 year of experience in AI & Data roles, including:
-  - **AI Software Engineer:** NLP, Generative AI, API integration
-  - **Data Engineer:** ETL/ELT pipelines, data cleaning, data modeling, database design & development
-  - **Data Analyst:** Business insights, cost analysis, client behavior
-- 📈 5 years as a Financial Trader, bringing a sharp understanding of performance, data, and risk management in real-time environments.
-
-> [!NOTE]\
-> 🔍 Seeking **AI Software Engineer roles** with a strong path toward **Data Engineering & AI/ML Engineering**.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-jimenez-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,6 +8,15 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+- **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) - [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
+- **AI Software Engineer** – Building intelligent systems that integrate machine learning models into scalable software.
+- **Data Engineer** – ETL/ELT pipelines, data cleaning, data modeling, database design & development.
+- **Data Analyst** – Business insights, cost analysis, client behavior.
+- **5 years as a Financial Trader** – Data-centric performance, risk, and real-time environments.
+
+> [!NOTE]\
+> 🔍 Seeking **AI Software Engineer roles** with a strong path toward **Data Engineering & AI/ML Engineering**.
 
 ---
 
