@@ -21,9 +21,22 @@
 
 ---
 
+### 🗂️ Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/felipe-jimenez-ai/mentoria">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true" alt="Backend Project" />
+  </a>
+  <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true" alt="ML API Project" />
+  </a>
+</p>
+
+---
+
 ### ⚙️ Core Competencies & Technologies
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="33%">
       <div align="center">
@@ -66,38 +79,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 What I'm Focused On
-
-My goal is to build scalable, data-driven, AI systems. My current learning path is deepening my expertise in:
-
--   **Cloud Architecture:** Designing resilient and cost-efficient systems on AWS.
--   **Data Engineering:** Building and optimizing data pipelines (ETL/ELT) with tools like Spark and Airflow.
--   **MLOps:** Automating the lifecycle of machine learning models to deliver reliable AI in production.
-
----
-
-### 🗂️ Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/felipe-jimenez-ai/mentoria">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true" alt="Backend Project" />
-  </a>
-  <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true" alt="ML API Project" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-jimenez-ai&show_icons=true&theme=catppuccin_latte&count_private=true" alt="felipe-jimenez-ai's GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-jimenez-ai&theme=catppuccin_latte" alt="Trophy" />
-</p>
 
 ---
 
