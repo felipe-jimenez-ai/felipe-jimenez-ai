@@ -92,3 +92,22 @@
   - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/4202993c624e456da2753121fa427873)
   - [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/7f81102538da4778a83c5d0041096bc5)
   - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/50307d7020a64596b87e1d15317dab63)
+
+---
+
+## 🗂️ Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/felipe-jimenez-ai/mentoria">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true" alt="Backend Project" />
+  </a>
+  <br>
+  <small>A full-stack mentorship platform built with Python, Flask, and PostgreSQL.</small>
+  <br><br>
+  
+  <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true" alt="ML API Project" />
+  </a>
+  <br>
+  <small>Exploratory Data Analysis and preprocessing for credit card fraud detection.</small>
+</p>
