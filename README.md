@@ -104,7 +104,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true" alt="Mentoria Project" />
       </a>
       <br>
-      <small>A full-stack mentorship platform for connecting students with mentors.</small>
+      <small>Learn faster with a full-stack AI system that turns videos into insights.</small>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
