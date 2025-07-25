@@ -20,19 +20,6 @@
 
 ---
 
-## 🗂️ Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/felipe-jimenez-ai/mentoria">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true" alt="Backend Project" />
-  </a>
-  <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true" alt="ML API Project" />
-  </a>
-</p>
-
----
-
 ## ⚙️ Core Competencies & Technologies
 
 <table align="center">
