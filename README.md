@@ -97,16 +97,17 @@
 
 ## 🗂️ Pinned Projects
 
-<table align="center">
+<table align="center" width="100%">
+  <!-- Row 1: Top AI & FinTech Projects -->
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/felipe-jimenez-ai/mentoria">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Mentoria Project" />
       </a>
       <br>
-      <small>Learn faster with a full-stack AI system that turns videos into insights.</small>
+      <small>Full-stack AI system that turns videos into learnable insights.</small>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Credit Card Fraud Detection Project" />
       </a>
@@ -114,52 +115,55 @@
       <small>EDA and preprocessing for a credit card fraud detection dataset.</small>
     </td>
   </tr>
+  <!-- Row 2: Specialized AI & Foundational CS -->
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/felipe-jimenez-ai/ai-genomics">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=ai-genomics&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="AI Genomics Project" />
       </a>
       <br>
       <small>Exploring AI applications in genomic data analysis.</small>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/felipe-jimenez-ai/harvard-CS50x-W0-scratch-videogame">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=harvard-CS50x-W0-scratch-videogame&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Harvard CS50x Scratch Videogame Project" />
+      </a>
+      <br>
+      <small>A videogame built with Scratch for Harvard's CS50x Week 0.</small>
+    </td>
+  </tr>
+  <!-- Row 3: Data Analysis & Core Algorithms -->
+  <tr>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/saparici0/COVID_Stats">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=saparici0&repo=COVID_Stats&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="COVID Stats Project" />
       </a>
       <br>
       <small>Analysis and visualization of COVID-19 statistics.</small>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/felipe-jimenez-ai/algorithms-unal">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=algorithms-unal&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Algorithms UNAL Project" />
       </a>
       <br>
       <small>Implementations of various algorithms from university courses.</small>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/felipe-jimenez-ai/discrete-mathematics-unal">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=discrete-mathematics-unal&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Discrete Mathematics UNAL Project" />
-      </a>
-      <br>
-      <small>Projects and exercises from Discrete Mathematics studies.</small>
-    </td>
   </tr>
+  <!-- Row 4: Web Dev & Academic Projects -->
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/felipe-jimenez-ai/aztech">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=aztech&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Aztech Project" />
       </a>
       <br>
       <small>Repository for the Aztech Technologies website and related projects.</small>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/felipe-jimenez-ai/harvard-CS50x-W0-scratch-videogame">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=harvard-CS50x-W0-scratch-videogame&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Harvard CS50x Scratch Videogame Project" />
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/felipe-jimenez-ai/discrete-mathematics-unal">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=discrete-mathematics-unal&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Discrete Mathematics UNAL Project" />
       </a>
       <br>
-      <small>A videogame built with Scratch for Harvard's CS50x Week 0.</small>
+      <small>Projects and exercises from Discrete Mathematics studies.</small>
     </td>
   </tr>
 </table>
