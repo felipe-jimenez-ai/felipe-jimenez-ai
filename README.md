@@ -132,40 +132,6 @@
       <small>A videogame built with Scratch for Harvard's CS50x Week 0.</small>
     </td>
   </tr>
-  <!-- Row 3: Data Analysis & Core Algorithms -->
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/saparici0/COVID_Stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=saparici0&repo=COVID_Stats&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="COVID Stats Project" />
-      </a>
-      <br>
-      <small>Analysis and visualization of COVID-19 statistics.</small>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/felipe-jimenez-ai/algorithms-unal">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=algorithms-unal&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Algorithms UNAL Project" />
-      </a>
-      <br>
-      <small>Implementations of various algorithms from university courses.</small>
-    </td>
-  </tr>
-  <!-- Row 4: Web Dev & Academic Projects -->
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/felipe-jimenez-ai/aztech">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=aztech&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Aztech Project" />
-      </a>
-      <br>
-      <small>Repository for the Aztech Technologies website and related projects.</small>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/felipe-jimenez-ai/discrete-mathematics-unal">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=discrete-mathematics-unal&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Discrete Mathematics UNAL Project" />
-      </a>
-      <br>
-      <small>Projects and exercises from Discrete Mathematics studies.</small>
-    </td>
-  </tr>
 </table>
 
 ---
