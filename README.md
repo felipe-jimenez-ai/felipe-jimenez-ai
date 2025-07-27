@@ -9,14 +9,12 @@
   </a>
 </p>
 
-- **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) - [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
-- **AI Software Engineer** – Building intelligent systems that integrate machine learning models into scalable software.
-- **Data Engineer** – ETL/ELT pipelines, data cleaning, data modeling, database design & development.
-- **Data Analyst** – Business insights, cost analysis, client behavior.
-- **5 years as a Financial Trader** – Data-centric performance, risk, and real-time environments.
+- Software Engineer | Backend & Cloud | Aspiring AI/ML Engineer
+- **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) — [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
+- 5+ years in financial trading — Skilled in data-driven decision-making, risk management, and market analysis
 
 > [!NOTE]\
-> 🔍 Seeking **AI Software Engineer roles** with a strong path toward **Data Engineering & AI/ML Engineering**.
+> 🔍 Seeking **Software Engineer roles** with a strong path toward **Data Engineering & AI/ML Engineering**.
 
 ---
 
@@ -33,8 +31,9 @@
         <li>Python</li>
         <li>Flask / Django</li>
         <li>REST APIs</li>
-        <li>SQL (PostgreSQL)</li>
-        <li>C/C++</li>
+        <li>SQL / NoSQL</li>
+        <li>Microservices / Serverless</li>
+        <li>System Design / Testing</li>
       </ul>
     </td>
     <td valign="top" width="33%">
@@ -44,7 +43,8 @@
       </div>
       <ul>
         <li>AWS</li>
-        <li>Docker</li>
+        <li>Docker / Kubernetes</li>
+        <li>OpenShift</li>
         <li>Git / GitHub</li>
         <li>CI/CD Principles</li>
         <li>Linux / Shell Scripting</li>
@@ -60,7 +60,8 @@
         <li>Scikit-Learn</li>
         <li>Pandas / NumPy</li>
         <li>Generative AI (LLMs)</li>
-        <li>MATLAB</li>
+        <li>Data Pipelines / ETL</li>
+        <li>MLOps Principles</li>
       </ul>
     </td>
   </tr>
