@@ -133,9 +133,4 @@
   </tr>
 </table>
 
-<!-- Separate line for "Building the next big thing!" outside the table -->
-<p align="center">
-  <small>Check out all my <a href="https://github.com/felipe-jimenez-ai?tab=repositories">repositories</a>.</small>
-</p>
-
 ---
