@@ -103,7 +103,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/mentoria">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=30" alt="Mentoria Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="Mentoria Project" />
       </a>
       <br>
       <small>Full-stack AI system that turns videos into learnable insights.</small>
