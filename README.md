@@ -99,16 +99,20 @@
 ## 🗂️ Pinned Projects
 
 <table align="center" width="100%">
-  <!-- Row 1: Top AI & FinTech Projects -->
+  <!-- Project 1: Mentoria -->
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/mentoria">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Mentoria Project" />
       </a>
       <br>
       <small>Full-stack AI system that turns videos into learnable insights.</small>
     </td>
-    <td align="center" valign="top" width="50%">
+  </tr>
+  
+  <!-- Project 2: Credit Card Fraud Detection -->
+  <tr>
+    <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Credit Card Fraud Detection Project" />
       </a>
@@ -116,19 +120,22 @@
       <small>EDA and preprocessing for a credit card fraud detection dataset.</small>
     </td>
   </tr>
-  <!-- Row 2: Specialized AI & Foundational CS -->
+  
+  <!-- Project 3: AI Genomics -->
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/ai-genomics">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=ai-genomics&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="AI Genomics Project" />
       </a>
       <br>
       <small>Exploring AI applications in genomic data analysis.</small>
     </td>
-    <td align="center" valign="center" width="50%">
-      <small>🚀 Building the next big thing!</small>
-    </td>
   </tr>
 </table>
+
+<!-- Separate line for "Building the next big thing!" outside the table -->
+<p align="center">
+  <small>Check out all my <a href="https://github.com/felipe-jimenez-ai?tab=repositories">repositories</a>.</small>
+</p>
 
 ---
