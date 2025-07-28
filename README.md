@@ -114,7 +114,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/credit-card-fraud-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true&cache_seconds=30" alt="Credit Card Fraud Detection Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=credit-card-fraud-detection&theme=catppuccin_latte&show_icons=true&cache_seconds=60" alt="Credit Card Fraud Detection Project" />
       </a>
       <br>
       <small>EDA and preprocessing for a credit card fraud detection dataset.</small>
@@ -125,7 +125,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/ai-genomics">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=ai-genomics&theme=catppuccin_latte&show_icons=true&cache_seconds=30" alt="AI Genomics Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=ai-genomics&theme=catppuccin_latte&show_icons=true&cache_seconds=60" alt="AI Genomics Project" />
       </a>
       <br>
       <small>Exploring AI applications in genomic data analysis.</small>
