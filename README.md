@@ -125,12 +125,8 @@
       <br>
       <small>Exploring AI applications in genomic data analysis.</small>
     </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/felipe-jimenez-ai/harvard-CS50x-W0-scratch-videogame">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=harvard-CS50x-W0-scratch-videogame&theme=catppuccin_latte&show_icons=true&cache_seconds=3600" alt="Harvard CS50x Scratch Videogame Project" />
-      </a>
-      <br>
-      <small>A videogame built with Scratch for Harvard's CS50x Week 0.</small>
+    <td align="center" valign="center" width="50%">
+      <small>🚀 Building the next big thing!</small>
     </td>
   </tr>
 </table>
