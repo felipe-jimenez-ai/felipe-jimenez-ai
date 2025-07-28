@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- Software Engineer | Backend & Cloud | Aspiring AI/ML Engineer
+- Software Engineer | Backend & Cloud | Specializing in AI/ML Engineering
 - **BS in Computer Science & Engineering** (GPA: 4.6 / 5.0) — [National University of Colombia (Top #10 LATAM)](https://www.topuniversities.com/universities/universidad-nacional-de-colombia).
 - 5+ years in financial trading — Skilled in data-driven decision-making, risk management, and market analysis
 
