@@ -106,7 +106,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=the-hub&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="The Hub Project" />
       </a>
       <br>
-      <small>Find the right person in the room, instantly.</small>
+      <small>B2B SaaS tool that solves the ‘zero ROI’ networking problem at events by turning groups of strangers into searchable human capital.</small>
     </td>
   </tr>
   
