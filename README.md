@@ -99,6 +99,17 @@
 ## 🗂️ Pinned Projects
 
 <table align="center" width="100%">
+    <!-- Project: The Hub -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/felipe-jimenez-ai/the-hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=the-hub&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="The Hub Project" />
+      </a>
+      <br>
+      <small>Full-stack AI system that turns videos into learnable insights.</small>
+    </td>
+  </tr>
+  
   <!-- Project 1: Mentoria -->
   <tr>
     <td align="center" valign="top">
