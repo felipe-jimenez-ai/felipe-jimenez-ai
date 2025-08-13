@@ -106,7 +106,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=the-hub&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="The Hub Project" />
       </a>
       <br>
-      <small>Full-stack AI system that turns videos into learnable insights.</small>
+      <small>Find the right person in the room, instantly.</small>
     </td>
   </tr>
   
