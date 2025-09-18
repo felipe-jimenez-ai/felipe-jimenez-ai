@@ -120,6 +120,17 @@
       <small>Full-stack AI system that turns videos into learnable insights.</small>
     </td>
   </tr>
+
+    <!-- Project 1: AI Inventory Assistant -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/felipe-jimenez-ai/makers-tech-chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="AI Inventory Assistant Project" />
+      </a>
+      <br>
+      <small>AI Inventory Assistant.</small>
+    </td>
+  </tr>
   
   <!-- Project 2: Credit Card Fraud Detection -->
   <tr>
