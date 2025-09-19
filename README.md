@@ -125,7 +125,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/makers-tech-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=mentoria&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="AI Inventory Assistant Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=makers-tech-chatbot&theme=catppuccin_latte&show_icons=true&cache_seconds=10" alt="AI Inventory Assistant Project" />
       </a>
       <br>
       <small>AI Inventory Assistant.</small>
