@@ -121,7 +121,7 @@
     </td>
   </tr>
 
-    <!-- Project 1: AI Inventory Assistant -->
+  <!-- Project: AI Inventory -->    
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/felipe-jimenez-ai/makers-tech-chatbot">
