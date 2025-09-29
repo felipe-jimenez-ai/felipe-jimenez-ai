@@ -153,6 +153,18 @@
       <small>Exploring AI applications in genomic data analysis.</small>
     </td>
   </tr>
+
+  <!-- Project: Forum API -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/felipe-jimenez-ai/forum-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=felipe-jimenez-ai&repo=forum-api&theme=catppuccin_latte&show_icons=true&cache_seconds=60" alt="Forum API Project" />
+      </a>
+      <br>
+      <small>Secure, scalable, and production-ready REST API 
+        <p>backend for a question-and-answer forum.</p></small>
+    </td>
+  </tr>
 </table>
 
 ---
